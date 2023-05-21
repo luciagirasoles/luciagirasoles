@@ -6,7 +6,13 @@ I learn about coding from [Codeable](https://github.com/codeableorg) an intensiv
 
 As a software developer, I did my intership at Able.co. For our client [SimCase](https://simcase.io/), we built two projects on their educational game platform for Wharton University.
 
-My first full-time job was for the presidential cabinet of Perú(Government of Peru), there I was able to develop for various projects focused on citizen service: [Complain book](https://reclamos.servicios.gob.pe/), [citizen Claims](https://denuncias.servicios.gob.pe/) and the unique digital platform of the Peruvian government - [gob.pe](https://www.gob.pe/) . Of which within three and six months I became the technical leader of the first two mentioned.
+My first full-time job was for the presidential cabinet of Perú(Government of Peru), there I was able to develop for various projects focused on citizen service: [Complain book](https://reclamos.servicios.gob.pe/), [Registry of citizen complaints](https://denuncias.servicios.gob.pe/) and the unique digital platform of the Peruvian government - [gob.pe](https://www.gob.pe/) . Of which within three and eight months I became the technical leader of the first two mentioned.
+
+My last full-time job was for [Target Test Prep](https://www.targettestprep.com/)
+
+## Current learning
+1. Learning by solving issues in open source libraries such as [ruby-faker gem](https://github.com/faker-ruby/faker); and coming soon, in projects for [ruby for good](https://github.com/rubyforgood).
+2. Reading Patterns of Enterprise Application Architecture by Martin Fowler.
 
 ## Background
 I have had the opportunity to work in multiple business models, from managing donations for international non-governmental organizations, large consumer goods companies, government organizations, storage and logistics management of medicines, wholesale distribution of basic necessities, educational platforms, even open source libraries.
