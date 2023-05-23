@@ -18,7 +18,7 @@ My first full-time job was for the presidential cabinet of Perú(Government of P
 My last full-time job was for [Target Test Prep](https://www.targettestprep.com/), I updated several old pages based on new designs, semantic HTML and current web programming practices. Also, I updated the project's tests, increased its coverage percentage to 60%, improved the SEO and accessibility of 80% of its public pages.
 
 ## Current learning 🌱
-1. Learning by solving issues in open source libraries such as [ruby-faker gem](https://github.com/faker-ruby/faker); and coming soon, in projects for [ruby for good](https://github.com/rubyforgood).
+1. Learning by solving issues in open source libraries such as [ruby-faker gem](https://github.com/faker-ruby/faker); and coming soon, in projects for [Ruby for good](https://github.com/rubyforgood).
 2. Reading Patterns of Enterprise Application Architecture by Martin Fowler.
 
 ## Background 📜
