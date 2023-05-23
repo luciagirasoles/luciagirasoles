@@ -13,7 +13,7 @@ I learn about coding from [Codeable](https://github.com/codeableorg) an intensiv
 
 As a software developer, I did my intership at Able.co. For our client [SimCase](https://simcase.io/), we built two projects on their educational game platform for Wharton University.
 
-My first full-time job was for the presidential cabinet of Perú(Government of Peru), there I was able to develop for various projects focused on citizen service: [Book of Claims](https://reclamos.servicios.gob.pe/), [Registry of citizen complaints](https://denuncias.servicios.gob.pe/) and the unique digital platform of the Peruvian government - [gob.pe](https://www.gob.pe/) . Of which within three and eight months I became the technical leader of the first two mentioned.
+My first full-time job was for the presidential cabinet of Perú(Government of Peru), there I was able to develop for various projects focused on citizen service: [Book of Claims](https://reclamos.servicios.gob.pe/), [Registry of citizen complaints](https://denuncias.servicios.gob.pe/) and the [Unique digital platform of the Peruvian government - gob.pe](https://www.gob.pe/) . Of which within three and eight months I became the technical leader of the first two mentioned.
 
 My last full-time job was for [Target Test Prep](https://www.targettestprep.com/), I updated several old pages based on new designs, semantic HTML and current web programming practices. Also, I updated the project's tests, increased its coverage percentage to 60%, improved the SEO and accessibility of 80% of its public pages.
 
