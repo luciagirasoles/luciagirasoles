@@ -26,6 +26,8 @@ I have had the opportunity to work in multiple business models, from managing do
 
 From my first job as a Help Desk, at the [International Potato Center](https://cipotato.org/), I discovered how much I enjoy helping people with their problems, and having a customer service attitude. As a SAP Basis consultant, I learned the culture of working in service companies, managing roles and managing servers as a client. Working in more structured companies such as IBM, (in Managed Infrastructure Services), allowed me to work with large companies and solve their problems and requirements with a plus due to my experience in customer service and previous experiences. As Project Manager for [Salutare](https://www.salutare.com.pe/) I was involved in the project of: the platform for the admission and delivery of medicines to the patient in hospitals (Sigah). I was able to manage the administration of deliverables and their fulfillment, the agreements with the stakeholders and the management of the goals together with the legal area for the management of the contracts, as well as monitoring the use of medicines in several national hospitals.
 
+![](https://komarev.com/ghpvc/?username=luciagirasoles&color=brightgreen)
+
 <!--
 **luciagirasoles/luciagirasoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
