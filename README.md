@@ -1,10 +1,10 @@
 # 🐈‍⬛ About me 🐈
 Hello 👋, I'm Mayra Navarro. Currently Software Developer, Tech Leader at [WNB.rb](https://www.wnb-rb.dev/), Javascript Fundamentals Teacher at [Pre-Codeable](https://www.codeable.la/pre-codeable)  and also a community organizer member of [Ruby Peru](https://ruby.pe/).
 
-I'm looking to collaborate 👯 in companies thatcan allow me to access to training and development programs, give me opportunities to work on challenging projects, offer a supportive and collaborative work environment and keep a culture of innovation and creativity.
+I'm looking to collaborate 👯 in companies that can allow me to access to training and development programs, give me opportunities to work on challenging projects, offer a supportive and collaborative work environment and keep a culture of innovation and creativity.
 
-<sub>[Linkedin](https://www.linkedin.com/in/mayralucianavarro/?locale=en_US) •
-[Email](mailto:mayranavarro@outlook.com) •
+<sub>[Linkedin](https://www.linkedin.com/in/mayralucianavarro/)   •
+[Email](mailto:mayranavarro@outlook.com)  •
 [Twitter](https://twitter.com/mayralunavarro)
 </sub>
 
@@ -24,7 +24,15 @@ My last full-time job was for [Target Test Prep](https://www.targettestprep.com/
 ## Background 📜
 I have had the opportunity to work in multiple business models, from managing donations for international non-governmental organizations, large consumer goods companies, government organizations, storage and logistics management of medicines, wholesale distribution of basic necessities, educational platforms, even open source libraries.
 
-From my first job as a Help Desk, at the [International Potato Center](https://cipotato.org/), I discovered how much I enjoy helping people with their problems, and having a customer service attitude. As a SAP Basis consultant, I learned the culture of working in service companies, managing roles and managing servers as a client. Working in more structured companies such as IBM, (in Managed Infrastructure Services), allowed me to work with large companies and solve their problems and requirements with a plus due to my experience in customer service and previous experiences. As Project Manager for [Salutare](https://www.salutare.com.pe/) I was involved in the project of: the platform for the admission and delivery of medicines to the patient in hospitals (Sigah). I was able to manage the administration of deliverables and their fulfillment, the agreements with the stakeholders and the management of the goals together with the legal area for the management of the contracts, as well as monitoring the use of medicines in several national hospitals.
+From my first job as a Help Desk, at the [International Potato Center](https://cipotato.org/), I discovered how much I enjoy helping people with their problems, and having a customer service attitude. As a SAP Basis consultant, I learned the culture of working in service companies, managing roles and managing servers as a client. Working in more structured companies such as IBM, (in Managed Infrastructure Services), allowed me to work with large companies and solve their problems and requirements with a plus due to my experience in customer service and previous experiences. As Project Manager for [Salutare](https://www.salutare.com.pe/) I was involved in the project of: the platform for the admission and delivery of medicines to the patient in hospitals (Sigah). I was able to manage the administration of deliverables and their fulfillment, the agreements with the stakeholders and the management of the goals together with the legal area for the management of the contracts, as well as monitoring the use of medicines in several national hospitals for [Essalud](https://portal.essalud.gob.pe/).
+
+## Conferences attended
+- Rubyconf Colombia 2019
+- Railsconf 2022 Portland, OR (Scholar)
+  <sub> My first lightning talk</sub>
+- Rubyconf Mini 2022 Providence, RI (Scholar)
+- Railsconf 2023 Atlanta, GA
+- Rubyconf 2023 San Diego, CA [Join us!](https://rubyconf.org/) 
 
 ![](https://komarev.com/ghpvc/?username=luciagirasoles&color=brightgreen)
 
