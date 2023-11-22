@@ -32,7 +32,8 @@ From my first job as a Help Desk, at the [International Potato Center](https://c
   <sub> My first lightning talk</sub>
 - Rubyconf Mini 2022 Providence, RI (Scholar)
 - Railsconf 2023 Atlanta, GA
-- Rubyconf 2023 San Diego, CA [Join us!](https://rubyconf.org/) 
+- Rubyconf 2023 San Diego, CA
+- Railsconf 2024 Detroit, MI [Join us!](https://www.railsconf.org)
 
 ![](https://komarev.com/ghpvc/?username=luciagirasoles&color=brightgreen)
 
