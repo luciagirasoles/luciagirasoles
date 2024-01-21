@@ -35,7 +35,8 @@ From my first job as a Help Desk, at the [International Potato Center](https://c
 - Rubyconf Mini 2022 Providence, RI (Scholar)
 - Railsconf 2023 Atlanta, GA
 - Rubyconf 2023 San Diego, CA
-- Railsconf 2024 Detroit, MI (Program Commitee)[Join us!](https://www.railsconf.org)
+- TropicalRB 2024 São Paulo, Brazil (Speaker)
+- Railsconf 2024 Detroit, MI (Program Commitee) [Join us!](https://www.railsconf.org)
 
 ![](https://komarev.com/ghpvc/?username=luciagirasoles&color=brightgreen)
 
