@@ -28,7 +28,7 @@ I have had the opportunity to work in multiple business models, from managing do
 
 From my first job as a Help Desk, at the [International Potato Center](https://cipotato.org/), I discovered how much I enjoy helping people with their problems, and having a customer service attitude. As a SAP Basis consultant, I learned the culture of working in service companies, managing roles and managing servers as a client. Working in more structured companies such as IBM, (in Managed Infrastructure Services), allowed me to work with large companies and solve their problems and requirements with a plus due to my experience in customer service and previous experiences. As Project Manager for [Salutare](https://www.salutare.com.pe/) I was involved in the project of: the platform for the admission and delivery of medicines to the patient in hospitals (Sigah). I was able to manage the administration of deliverables and their fulfillment, the agreements with the stakeholders and the management of the goals together with the legal area for the management of the contracts, as well as monitoring the use of medicines in several national hospitals for [Essalud](https://portal.essalud.gob.pe/).
 
-## Conferences attended
+## Conferences attended (and to be attended)
 - Rubyconf Colombia 2019
 - Railsconf 2022 Portland, OR (Scholar)
   <sub> My first lightning talk</sub>
@@ -37,6 +37,8 @@ From my first job as a Help Desk, at the [International Potato Center](https://c
 - Rubyconf 2023 San Diego, CA
 - TropicalRB 2024 São Paulo, Brazil (Speaker)
 - Railsconf 2024 Detroit, MI (Program Commitee) [Join us!](https://www.railsconf.org)
+- RailsWorld 2024 Toronto, Canada (I got a ticket!)
+- RubyConf 2024 Chicago, IL (see you there!)
 
 ![](https://komarev.com/ghpvc/?username=luciagirasoles&color=brightgreen)
 
